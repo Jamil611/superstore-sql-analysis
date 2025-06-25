@@ -60,8 +60,6 @@ Check out: `ppt/Superstore_Analysis.pdf`
 
 ## 📊 Project Presentation
 
-[![View Presentation](ppt/preview-slide.png)](ppt/Superstore_Analysis.pdf)
-
 📄 **[Click here to view the full presentation (PDF)](ppt/Superstore_Analysis.pdf)**
 
 ## 📌 How to Run This Project
